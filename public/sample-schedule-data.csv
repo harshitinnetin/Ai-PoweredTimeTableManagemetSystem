@@ -1,0 +1,16 @@
+roomId,roomCapacity,roomType,facultyId,facultyName,department,courseCode,courseName,credits,batchId,batchSize,year,semester,hoursPerWeek
+R101,50,Classroom,F001,Dr. Smith,Computer Science,CS101,Introduction to Programming,3,B2024CS1,45,1,1,3
+R102,30,Lab,F002,Prof. Johnson,Computer Science,CS102,Data Structures,4,B2024CS1,45,1,1,4
+R103,100,Lecture Hall,F003,Dr. Brown,Mathematics,MATH101,Calculus I,4,B2024CS1,45,1,1,4
+R104,25,Lab,F004,Prof. Davis,Physics,PHY101,Physics I,3,B2024CS1,45,1,1,3
+R101,50,Classroom,F001,Dr. Smith,Computer Science,CS201,Object Oriented Programming,3,B2024CS2,40,2,1,3
+R102,30,Lab,F005,Dr. Wilson,Computer Science,CS202,Database Systems,4,B2024CS2,40,2,1,4
+R103,100,Lecture Hall,F003,Dr. Brown,Mathematics,MATH201,Calculus II,4,B2024CS2,40,2,1,4
+R105,60,Classroom,F006,Prof. Miller,English,ENG101,Technical Writing,2,B2024CS1,45,1,1,2
+R106,40,Classroom,F007,Dr. Taylor,Management,MGT101,Principles of Management,3,B2024CS1,45,1,1,3
+R107,35,Lab,F008,Prof. Anderson,Computer Science,CS103,Computer Networks,3,B2024CS2,40,2,1,3
+R108,45,Classroom,F009,Dr. Garcia,Computer Science,CS301,Software Engineering,4,B2024CS3,35,3,1,4
+R109,30,Lab,F010,Prof. Martinez,Computer Science,CS302,Machine Learning,3,B2024CS3,35,3,1,3
+R110,80,Lecture Hall,F011,Dr. Lee,Mathematics,MATH301,Linear Algebra,3,B2024CS3,35,3,1,3
+R111,25,Lab,F012,Prof. White,Physics,PHY201,Physics II,4,B2024CS2,40,2,1,4
+R112,50,Classroom,F013,Dr. Clark,Computer Science,CS401,Database Management,3,B2024CS4,30,4,1,3

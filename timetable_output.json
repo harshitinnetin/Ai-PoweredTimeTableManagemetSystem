@@ -1,0 +1,276 @@
+{
+  "assignments": {
+    "S_CORE-MATH-101_FYUP_Y1_A_0": [
+      "CORE-MATH-101",
+      "R101",
+      "MON_2"
+    ],
+    "S_CORE-MATH-101_FYUP_Y1_A_1": [
+      "CORE-MATH-101",
+      "R101",
+      "MON_3"
+    ],
+    "S_CORE-MATH-101_FYUP_Y1_A_2": [
+      "CORE-MATH-101",
+      "R101",
+      "MON_4"
+    ],
+    "S_CORE-MATH-101_FYUP_Y1_A_3": [
+      "CORE-MATH-101",
+      "R101",
+      "THU_4"
+    ],
+    "S_CORE-MATH-101_FYUP_Y1_B_0": [
+      "CORE-MATH-101",
+      "R101",
+      "THU_3"
+    ],
+    "S_CORE-MATH-101_FYUP_Y1_B_1": [
+      "CORE-MATH-101",
+      "R101",
+      "THU_2"
+    ],
+    "S_CORE-MATH-101_FYUP_Y1_B_2": [
+      "CORE-MATH-101",
+      "R101",
+      "WED_4"
+    ],
+    "S_CORE-MATH-101_FYUP_Y1_B_3": [
+      "CORE-MATH-101",
+      "R101",
+      "WED_3"
+    ],
+    "S_VAC-DS-201_VAC_COHORT_1_0": [
+      "VAC-DS-201",
+      "R101",
+      "WED_2"
+    ],
+    "S_VAC-DS-201_VAC_COHORT_1_1": [
+      "VAC-DS-201",
+      "R101",
+      "TUE_4"
+    ],
+    "S_AEC-ENG-101_AEC_COHORT_1_0": [
+      "AEC-ENG-101",
+      "R101",
+      "TUE_3"
+    ],
+    "S_AEC-ENG-101_AEC_COHORT_1_1": [
+      "AEC-ENG-101",
+      "R101",
+      "TUE_2"
+    ]
+  },
+  "timeslots": {
+    "MON_0": {
+      "slot_id": "MON_0",
+      "day": "MON",
+      "index": 0,
+      "start_min": 540,
+      "end_min": 595
+    },
+    "MON_1": {
+      "slot_id": "MON_1",
+      "day": "MON",
+      "index": 1,
+      "start_min": 600,
+      "end_min": 655
+    },
+    "MON_2": {
+      "slot_id": "MON_2",
+      "day": "MON",
+      "index": 2,
+      "start_min": 660,
+      "end_min": 715
+    },
+    "MON_3": {
+      "slot_id": "MON_3",
+      "day": "MON",
+      "index": 3,
+      "start_min": 750,
+      "end_min": 805
+    },
+    "MON_4": {
+      "slot_id": "MON_4",
+      "day": "MON",
+      "index": 4,
+      "start_min": 840,
+      "end_min": 895
+    },
+    "MON_5": {
+      "slot_id": "MON_5",
+      "day": "MON",
+      "index": 5,
+      "start_min": 900,
+      "end_min": 955
+    },
+    "TUE_0": {
+      "slot_id": "TUE_0",
+      "day": "TUE",
+      "index": 0,
+      "start_min": 540,
+      "end_min": 595
+    },
+    "TUE_1": {
+      "slot_id": "TUE_1",
+      "day": "TUE",
+      "index": 1,
+      "start_min": 600,
+      "end_min": 655
+    },
+    "TUE_2": {
+      "slot_id": "TUE_2",
+      "day": "TUE",
+      "index": 2,
+      "start_min": 660,
+      "end_min": 715
+    },
+    "TUE_3": {
+      "slot_id": "TUE_3",
+      "day": "TUE",
+      "index": 3,
+      "start_min": 750,
+      "end_min": 805
+    },
+    "TUE_4": {
+      "slot_id": "TUE_4",
+      "day": "TUE",
+      "index": 4,
+      "start_min": 840,
+      "end_min": 895
+    },
+    "TUE_5": {
+      "slot_id": "TUE_5",
+      "day": "TUE",
+      "index": 5,
+      "start_min": 900,
+      "end_min": 955
+    },
+    "WED_0": {
+      "slot_id": "WED_0",
+      "day": "WED",
+      "index": 0,
+      "start_min": 540,
+      "end_min": 595
+    },
+    "WED_1": {
+      "slot_id": "WED_1",
+      "day": "WED",
+      "index": 1,
+      "start_min": 600,
+      "end_min": 655
+    },
+    "WED_2": {
+      "slot_id": "WED_2",
+      "day": "WED",
+      "index": 2,
+      "start_min": 660,
+      "end_min": 715
+    },
+    "WED_3": {
+      "slot_id": "WED_3",
+      "day": "WED",
+      "index": 3,
+      "start_min": 750,
+      "end_min": 805
+    },
+    "WED_4": {
+      "slot_id": "WED_4",
+      "day": "WED",
+      "index": 4,
+      "start_min": 840,
+      "end_min": 895
+    },
+    "WED_5": {
+      "slot_id": "WED_5",
+      "day": "WED",
+      "index": 5,
+      "start_min": 900,
+      "end_min": 955
+    },
+    "THU_0": {
+      "slot_id": "THU_0",
+      "day": "THU",
+      "index": 0,
+      "start_min": 540,
+      "end_min": 595
+    },
+    "THU_1": {
+      "slot_id": "THU_1",
+      "day": "THU",
+      "index": 1,
+      "start_min": 600,
+      "end_min": 655
+    },
+    "THU_2": {
+      "slot_id": "THU_2",
+      "day": "THU",
+      "index": 2,
+      "start_min": 660,
+      "end_min": 715
+    },
+    "THU_3": {
+      "slot_id": "THU_3",
+      "day": "THU",
+      "index": 3,
+      "start_min": 750,
+      "end_min": 805
+    },
+    "THU_4": {
+      "slot_id": "THU_4",
+      "day": "THU",
+      "index": 4,
+      "start_min": 840,
+      "end_min": 895
+    },
+    "THU_5": {
+      "slot_id": "THU_5",
+      "day": "THU",
+      "index": 5,
+      "start_min": 900,
+      "end_min": 955
+    },
+    "FRI_0": {
+      "slot_id": "FRI_0",
+      "day": "FRI",
+      "index": 0,
+      "start_min": 540,
+      "end_min": 595
+    },
+    "FRI_1": {
+      "slot_id": "FRI_1",
+      "day": "FRI",
+      "index": 1,
+      "start_min": 600,
+      "end_min": 655
+    },
+    "FRI_2": {
+      "slot_id": "FRI_2",
+      "day": "FRI",
+      "index": 2,
+      "start_min": 660,
+      "end_min": 715
+    },
+    "FRI_3": {
+      "slot_id": "FRI_3",
+      "day": "FRI",
+      "index": 3,
+      "start_min": 750,
+      "end_min": 805
+    },
+    "FRI_4": {
+      "slot_id": "FRI_4",
+      "day": "FRI",
+      "index": 4,
+      "start_min": 840,
+      "end_min": 895
+    },
+    "FRI_5": {
+      "slot_id": "FRI_5",
+      "day": "FRI",
+      "index": 5,
+      "start_min": 900,
+      "end_min": 955
+    }
+  }
+}
